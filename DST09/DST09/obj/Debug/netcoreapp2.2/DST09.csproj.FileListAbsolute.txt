@@ -1,0 +1,14 @@
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\bin\Debug\netcoreapp2.2\DST09.deps.json
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\bin\Debug\netcoreapp2.2\DST09.runtimeconfig.json
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\bin\Debug\netcoreapp2.2\DST09.runtimeconfig.dev.json
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\bin\Debug\netcoreapp2.2\DST09.dll
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\bin\Debug\netcoreapp2.2\DST09.pdb
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\bin\Debug\netcoreapp2.2\ClassLibrary1.dll
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\bin\Debug\netcoreapp2.2\ClassLibrary1.pdb
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\obj\Debug\netcoreapp2.2\DST09.csprojAssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\obj\Debug\netcoreapp2.2\DST09.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\obj\Debug\netcoreapp2.2\DST09.AssemblyInfoInputs.cache
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\obj\Debug\netcoreapp2.2\DST09.AssemblyInfo.cs
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\obj\Debug\netcoreapp2.2\DST09.csproj.CopyComplete
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\obj\Debug\netcoreapp2.2\DST09.dll
+C:\Users\Lenovo-PC\source\repos\DST09\DST09\obj\Debug\netcoreapp2.2\DST09.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\bin\Debug\netcoreapp2.2\DST03.deps.json
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\bin\Debug\netcoreapp2.2\DST03.runtimeconfig.json
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\bin\Debug\netcoreapp2.2\DST03.runtimeconfig.dev.json
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\bin\Debug\netcoreapp2.2\DST03.dll
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\bin\Debug\netcoreapp2.2\DST03.pdb
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\obj\Debug\netcoreapp2.2\DST03.csprojAssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\obj\Debug\netcoreapp2.2\DST03.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\obj\Debug\netcoreapp2.2\DST03.AssemblyInfoInputs.cache
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\obj\Debug\netcoreapp2.2\DST03.AssemblyInfo.cs
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\obj\Debug\netcoreapp2.2\DST03.dll
+C:\Users\Lenovo-PC\source\repos\DST03\DST03\obj\Debug\netcoreapp2.2\DST03.pdb

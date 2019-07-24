@@ -1,0 +1,11 @@
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\bin\Debug\netcoreapp2.2\DSTCT0101.deps.json
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\bin\Debug\netcoreapp2.2\DSTCT0101.runtimeconfig.json
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\bin\Debug\netcoreapp2.2\DSTCT0101.runtimeconfig.dev.json
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\bin\Debug\netcoreapp2.2\DSTCT0101.dll
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\bin\Debug\netcoreapp2.2\DSTCT0101.pdb
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\obj\Debug\netcoreapp2.2\DSTCT0101.csprojAssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\obj\Debug\netcoreapp2.2\DSTCT0101.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\obj\Debug\netcoreapp2.2\DSTCT0101.AssemblyInfoInputs.cache
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\obj\Debug\netcoreapp2.2\DSTCT0101.AssemblyInfo.cs
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\obj\Debug\netcoreapp2.2\DSTCT0101.dll
+C:\Users\Lenovo-PC\source\repos\DSTCT0101\DSTCT0101\obj\Debug\netcoreapp2.2\DSTCT0101.pdb
